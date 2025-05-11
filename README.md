@@ -73,6 +73,8 @@ Learn to work with modern design principles like Flexbox and Grid
 
 Great addition to your web development portfolio
 
+Read Blog On Site 
+https://miniprojectbytes.blogspot.com/2025/05/blog-post.html
 
 ಲೈವ್ ಪೂರ್ವವೀಕ್ಷಣೆ
 live preview
